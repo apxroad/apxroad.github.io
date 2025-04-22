@@ -89,5 +89,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "lanphgphm", href: "https://lanphgphm.github.io/" }, # hehe
+    # { title: "lanphgphm", href: "https://lanphgphm.github.io/" }, # hehe
   ]

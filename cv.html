@@ -1,0 +1,200 @@
+---
+layout: page
+title: 'CV'
+description: 'change_me'
+header-img: 'img/post-bg-about.jpg'
+header-mask: 0.3
+multilingual: true
+nav-style: 'invert'
+---
+
+<!-- PDF Download Link -->
+<div class="cv-header">
+  <h1>Curriculum Vitae</h1>
+  <div class="pdf-link">
+    <a href="/path-to-your-cv.pdf" target="_blank">
+      <i class="fas fa-file-pdf" style="font-size: 45px; color: #553b7d"></i>
+    </a>
+  </div>
+</div>
+
+<div class="info-card">
+  <h2>General Information</h2>
+
+  <div class="info-row">
+    <div class="info-label">Full Name</div>
+    <div class="info-value">Nguyen Cong Thanh</div>
+  </div>
+
+  <div class="info-row">
+    <div class="info-label">Languages</div>
+    <div class="info-value">English, Vietnamese</div>
+  </div>
+</div>
+
+<div class="info-card">
+  <h2>Education</h2>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2025-Present</div>
+    <h3>Ph.D. Student in Statistics</h3>
+    <div class="institution">
+      <i class="fas fa-university"></i>
+      University of Michigan, Michigan, USA
+    </div>
+    <ul class="timeline-details">
+      <li>
+        Advised by Professor
+        <a href="#">change_me</a>
+        and Professor
+        <a href="#">change_me</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2021-2025</div>
+    <h3>B.Sc in Applied Mathematics</h3>
+    <div class="institution">
+      <i class="fas fa-university"></i>
+      Fulbright University Vietnam, HCMC, Viet Nam
+    </div>
+    <ul class="timeline-details">
+      <li>very smort guy hehe</li>
+      <li>Thesis "change_me"</li>
+    </ul>
+  </div>
+</div>
+
+<div class="info-card">
+  <h2>Publications</h2>
+</div>
+
+<div class="info-card">
+  <h2>Teaching Experience</h2>
+</div>
+
+<div class="info-card">
+  <h2>Research Experience</h2>
+</div>
+
+<style>
+  .info-card {
+    background: var(--main-background-color, #1e1e2e);
+    border: 1px solid var(--overlay0-color, #313244);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+    padding: 25px 30px;
+    transition: all 0.3s ease;
+  }
+
+  /* Hover effect for cards */
+  .info-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(137, 84, 222, 0.2);
+    border-color: var(--accent-color, #8839ef);
+  }
+
+  .info-card h2 {
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 25px;
+    color: var(--main-text-color, #cdd6f4);
+    font-weight: 600;
+  }
+
+  .info-row {
+    display: flex;
+    margin-bottom: 15px;
+  }
+
+  .info-label {
+    font-weight: bold;
+    width: 150px;
+    flex-shrink: 0;
+    color: var(--main-text-color, #cdd6f4);
+  }
+
+  .info-value {
+    flex-grow: 1;
+    color: var(--subtext0-color, #bac2de);
+  }
+
+  .timeline-item {
+    margin-bottom: 30px;
+    position: relative;
+  }
+
+  .timeline-date {
+    background: var(--accent-color-background, #553b7d);
+    color: var(--accent-color-text, #504c4c);
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+
+  .timeline-item h3 {
+    margin-top: 5px;
+    color: var(--main-text-color, #cdd6f4);
+  }
+
+  .institution {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    color: var(--subtext0-color, #bac2de);
+  }
+
+  .institution i {
+    color: var(--accent-color, #cba6f7);
+    margin-right: 10px;
+  }
+
+  .timeline-details {
+    margin-left: 20px;
+    padding-left: 15px;
+    color: var(--subtext0-color, #bac2de);
+  }
+
+  .timeline-details li {
+    margin-bottom: 5px;
+  }
+
+  .timeline-details a {
+    color: var(--accent-color-deep, #89b4fa);
+    transition: color 0.2s ease;
+  }
+
+  .timeline-details a:hover {
+    color: var(--accent-color, #b4befe);
+    text-decoration: underline;
+  }
+
+  .cv-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+
+  .cv-header h1 {
+    margin: 0;
+    color: var(--main-text-color, #cdd6f4);
+  }
+
+  .pdf-link a {
+    display: inline-block;
+  }
+
+  .pdf-link i {
+    transition: transform 0.3s ease;
+    color: var(--accent-color, #553b7d);
+  }
+
+  .pdf-link i:hover {
+    transform: scale(1.1);
+  }
+</style>
