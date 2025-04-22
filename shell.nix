@@ -12,6 +12,7 @@ pkgs.mkShell {
 
   # Commands to set up the environment
   shellHook = ''
+    zsh
     echo "Setting up Ruby and Bundler environment..."
     if [ ! -d ".vendor" ]; then
       echo "Installing Bundler dependencies..."
