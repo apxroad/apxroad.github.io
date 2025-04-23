@@ -1,7 +1,7 @@
 # Site settings
-title: "apxroad"
-SEOTitle: Apxroad Blog
-header-img: img/hollow-knight.png
+title: "🌧️❄️apxroad🐼"
+SEOTitle: apxroad blog
+header-img: img/post-bg-about.jpg
 email: nguyencongthanh.cbl@gmail.com
 description: "change_me"
 keyword: "change_me"
@@ -15,8 +15,8 @@ future: true
 RSS: false
 github_username: apxroad
 twitter_username: change_me
-facebook_username: change_me
-linkedin_username: change_me
+facebook_username: nguyentanphivu
+linkedin_username: nguyencongthanh
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
