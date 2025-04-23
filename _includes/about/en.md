@@ -3,7 +3,7 @@ I’m **Nguyễn Công Thành**, a Vietnamese native, or in the American style, 
 
 I'm an incoming Ph.D. student in Statistics at the University of Michigan, Ann Arbor, starting Fall 2025. 
 
-I hold a Bachelor’s degree in Applied Mathematics and Computer Science from Fulbright University Vietnam, where I was fortunate to work under the guidance of Prof. Linh Tran (Fulbright University Vietnam) and Prof. Hoi Nguyen (Ohio State University).
+I hold a Bachelor’s degree in Applied Mathematics and Computer Science from Fulbright University Vietnam, where I was fortunate to work under the guidance of Prof. [Linh Tran](https://fulbright.edu.vn/our-team/tran-vinh-linh-2/) (Fulbright University Vietnam) and Prof. [Hoi Nguyen](https://math.osu.edu/people/nguyen.1261) (Ohio State University).
 
 Previously, I've actively engaged with Mathematical Olympiads as both a competitor and a coach. 
 
