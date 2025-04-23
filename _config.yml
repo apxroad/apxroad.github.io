@@ -72,7 +72,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "cccc"
+sidebar-about-description: "If you’re nothing without this suit, then you shouldn’t have it. <br> <small>— Tony Stark</small>" # description in sidebar
 sidebar-avatar: https://github.com/apxroad.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
