@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "RESEARCH"
-description: "change_me"
+description: "<em>In the dance of shadows, every step carves a whisper of what might be.</em>"
 header-img: "img/post-bg-about.jpg"
 header-mask: 0.3
 multilingual: true
@@ -9,6 +9,9 @@ nav-style: 'invert'
 ---
 
 <!-- Main Content -->
+<div class="en post-container">
+	{% capture about_en %}{% include research/en.md %}{% endcapture %} {{ about_en | markdownify }}
+  </div>
 <div class="container">
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">

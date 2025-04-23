@@ -7,7 +7,7 @@
 - All posts must reference images using **relative path** 
 
 3. To test locally  
-`bunle exec jekyll serve` 
+`bundle exec jekyll serve` 
 
 go to 127.0.0.1:4000 in browser, reload a few times for changes to appear. 
 
