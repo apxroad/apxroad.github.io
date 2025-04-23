@@ -1,9 +1,12 @@
 ---
 layout: page
 title: 'TEACHING'
-description: 'change_me'
+description: 'Where winds of wonder blow, every note struck kindles flames yet to blaze.'
 header-img: 'img/post-bg-about.jpg'
 header-mask: 0.3
 multilingual: true
 nav-style: 'invert'
 ---
+<div class="en post-container">
+    {% capture about_en %}{% include teaching/en.md %}{% endcapture %} {{ about_en | markdownify }}
+  </div>

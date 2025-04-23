@@ -3,8 +3,8 @@ title: "🌧️❄️apxroad🐼"
 SEOTitle: apxroad blog
 header-img: img/post-bg-about.jpg
 email: nguyencongthanh.cbl@gmail.com
-description: "change_me"
-keyword: "change_me"
+description: "aaaaa"
+keyword: "bbbb"
 url: "https://apxroad.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -72,7 +72,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "change_me"
+sidebar-about-description: "cccc"
 sidebar-avatar: https://github.com/apxroad.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -89,5 +89,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    # { title: "lanphgphm", href: "https://lanphgphm.github.io/" }, # hehe
+    { title: "lanphgphm", href: "https://lanphgphm.github.io/" }, # hehe
   ]
