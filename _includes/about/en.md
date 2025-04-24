@@ -15,4 +15,4 @@ This website is my digital notebook, a space to capture the random moments of my
 The site is built on a wonderful template by [Hyduf](https://github.com/hynduf), which I’ve customized with the invaluable help of my friend [Lanphgphm](https://github.com/lanphgphm). A huge thank you to both for making this space possible!
 
 # CONTACT
-You can reach me at my work email, **thanh.vu[at]umich[dot]edu**, which I’ll be using during my Ph.D. at the University of Michigan. For a more casual chat, feel free to connect with me via the social links at the bottom of the page. 
+You can reach me at my work email, **thanhvu[at]umich[dot]edu**, which I’ll be using during my Ph.D. at the University of Michigan. For a more casual chat, feel free to connect with me via the social links at the bottom of the page. 
